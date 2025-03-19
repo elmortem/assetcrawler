@@ -1,0 +1,21 @@
+{
+  "displayName": "Asset Crawler",
+  "name": "com.elmortem.assetcrawler",
+  "author":
+  {
+    "name": "Makar Osokin",
+    "email": "elmortem@gmail.com",
+    "url": "https://makar.rs"
+  },
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Asset crawler system.",
+  "keywords": [
+    "asset",
+	"GameObject",
+	"Scene",
+	"ScriptableObject",
+	"crawler"
+  ],
+  "category": "Utility"
+}
