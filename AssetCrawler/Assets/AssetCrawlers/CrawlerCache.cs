@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace AssetScout.Crawlers
+namespace AssetCrawlers
 {
 	[InitializeOnLoad]
 	public static class CrawlerCache

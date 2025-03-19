@@ -6,7 +6,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace AssetScout.Crawlers
+namespace AssetCrawlers
 {
 	public class ObjectFieldsCrawler : IAssetCrawler
 	{

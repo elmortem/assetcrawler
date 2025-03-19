@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace AssetScout.Crawlers
+namespace AssetCrawlers
 {
 	public class GameObjectCrawler : IAssetCrawler
 	{

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AssetScout.Crawlers
+namespace AssetCrawlers
 {
 	public interface IAssetCrawler
 	{

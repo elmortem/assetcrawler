@@ -5,7 +5,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace AssetScout.Crawlers
+namespace AssetCrawlers
 {
 	public class SceneCrawler : IAssetCrawler
 	{

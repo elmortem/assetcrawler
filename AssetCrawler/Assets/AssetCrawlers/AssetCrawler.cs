@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading;
 using Object = UnityEngine.Object;
 
-namespace AssetScout.Crawlers
+namespace AssetCrawlers
 {
 	public class AssetCrawler
 	{
